@@ -1,0 +1,5 @@
+﻿  012_01_10_Expresiones_Ejercicio 7.cpp
+C:\Users\AMK-7\Desktop\Programacion_Xd\012_01_10_Expresiones_Ejercicio 7\012_01_10_Expresiones_Ejercicio 7.cpp(14,22): warning C4305: '*=': truncamiento de 'double' a 'float'
+C:\Users\AMK-7\Desktop\Programacion_Xd\012_01_10_Expresiones_Ejercicio 7\012_01_10_Expresiones_Ejercicio 7.cpp(15,21): warning C4305: '*=': truncamiento de 'double' a 'float'
+C:\Users\AMK-7\Desktop\Programacion_Xd\012_01_10_Expresiones_Ejercicio 7\012_01_10_Expresiones_Ejercicio 7.cpp(16,27): warning C4305: '*=': truncamiento de 'double' a 'float'
+  012_01_10_Expresiones_Ejercicio 7.vcxproj -> C:\Users\AMK-7\Desktop\Programacion_Xd\012_01_10_Expresiones_Ejercicio 7\Debug\012_01_10_Expresiones_Ejercicio 7.exe
