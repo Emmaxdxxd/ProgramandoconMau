@@ -16,8 +16,17 @@ int main()
 	case 'e':
 	case 'i':
 	case 'o':
-	case 'u': std::cout << "Esto es una vocal minuscula :D\n";
-	default: std::cout << " Esto No es una vocal minuscula";
+	case 'u': std::cout << "Esto es una vocal minuscula :D\n"; break;
+	case 'A':
+	case 'E':
+	case 'I':
+	case 'O':
+	case 'U':std::cout << " Esto es una vocal mayuscula :D\n"; break;
+	default: std::cout << " Esto No es una vocal >:C";
+
+
+	}
+	
 
 
 	}
@@ -25,5 +34,4 @@ int main()
 
 
 
-}
 
